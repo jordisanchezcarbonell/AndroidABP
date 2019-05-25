@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_actividades"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Actividades"/>
+
+    <item
+        android:id="@+id/nav_librerias"
+        android:icon="@drawable/ic_local_library_black_24dp"
+        android:title="Librerias" />
+
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/ic_person_outline_black_24dp"
+        android:title="Perfil" />
+</menu>

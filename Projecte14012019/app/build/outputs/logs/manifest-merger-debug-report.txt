@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0b49854a8d2ffb9ebbd92f901d10f943\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\118cc94c7b89b5da04d4d1e64a36f9c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15995514d9b4d9369383c553f3151230\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e8ef99e6d1341b6347be70ca22527f7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\66ccbd2a48ad002d10f80a819966fa2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cb0a697723339f4a1e7ec4efbee788b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d170c75d72323f0226863125f87801ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ebdb137be34bc7cda62341915fc35482\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\44ce149779dbb06f69c1226dc12906ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\41930a30f66e0a7a0b155050d4768bda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b47bd4870e0c2195697e8ec56b5e9988\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\542950dbc7bd3dd9a606f3c99b098a9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b48a788352a57f5e01268fb1d3554b92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a6130e8de5baa017c3b8c5bee69b8c45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3416ed5d868317b9046f926b6c0165d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6d24f5e02c9456ee3f4ba57822bdce8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e4f4b69612e0aa4fec6d5b996d1136c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4081862020d32e7354372049725c21e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a9f10ef99a92601101a1abd99ea09737\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a61bb246b21d2566234e16afb19b7c6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\112bc047e04d3ad5ed6d163f6a883522\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\010988880c2c63c2b360a89f063c3e31\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\47f16645a52e0415f8cc4d0a8c3c071d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\541744292846edd45cee593f6029f243\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d886f33db88f75f757e49beea790a5e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6959deb9650939d536cb856402ff61ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2520905ddd1b7b210aff1b82baf52336\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d06c4b4b121885c654655adc5255da9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8b3151cba57e6620c2057602529fea51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\11955397ac89c39d47f0dcd02cfef2a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dc8437f27ad6de691120f873482df49c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\121f6d97d346fc0143c821fcd50b5fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e62cce9a8236dedc88920d38b8028089\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:5:1-79
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:5:18-60
+uses-permission-sdk-23#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:6:5-119
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:6:29-93
+application
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0b49854a8d2ffb9ebbd92f901d10f943\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0b49854a8d2ffb9ebbd92f901d10f943\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15995514d9b4d9369383c553f3151230\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15995514d9b4d9369383c553f3151230\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\112bc047e04d3ad5ed6d163f6a883522\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\112bc047e04d3ad5ed6d163f6a883522\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\010988880c2c63c2b360a89f063c3e31\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\010988880c2c63c2b360a89f063c3e31\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\112bc047e04d3ad5ed6d163f6a883522\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:10:9-25
+	tools:ignore
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:11:9-48
+	android:icon
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.MainActivity
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:15:9-122
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:15:84-120
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:15:19-83
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.registro
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:16:9-20:20
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:16:80-116
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:16:19-79
+intent-filter#action:name:android.intent.action.ANSWER
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:17:13-19:29
+action#android.intent.action.ANSWER
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:18:17-71
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:18:25-68
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.ActividadDetalles
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:21:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:21:89-125
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:21:19-88
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.ActividadesActivity
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:26:9-130
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:26:91-127
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:26:19-90
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.LibreriasActivity
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:27:9-128
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:27:89-125
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:27:19-88
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.PerfilActivity
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:28:9-125
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:28:87-123
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:28:19-85
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.LibreriaDetalles
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:29:9-127
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:29:88-124
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:29:19-87
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.QR
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:30:9-112
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:30:74-110
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:30:19-73
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.Splash
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:31:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:31:102-138
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:31:19-101
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.cep.projecte.com.example.cep.projecte.activities.Alquiler
+ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:37:9-119
+	android:screenOrientation
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:37:81-117
+	android:name
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml:37:19-79
+uses-sdk
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0b49854a8d2ffb9ebbd92f901d10f943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0b49854a8d2ffb9ebbd92f901d10f943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\118cc94c7b89b5da04d4d1e64a36f9c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\118cc94c7b89b5da04d4d1e64a36f9c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15995514d9b4d9369383c553f3151230\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15995514d9b4d9369383c553f3151230\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e8ef99e6d1341b6347be70ca22527f7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e8ef99e6d1341b6347be70ca22527f7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\66ccbd2a48ad002d10f80a819966fa2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\66ccbd2a48ad002d10f80a819966fa2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cb0a697723339f4a1e7ec4efbee788b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cb0a697723339f4a1e7ec4efbee788b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d170c75d72323f0226863125f87801ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d170c75d72323f0226863125f87801ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ebdb137be34bc7cda62341915fc35482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ebdb137be34bc7cda62341915fc35482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\44ce149779dbb06f69c1226dc12906ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\44ce149779dbb06f69c1226dc12906ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\41930a30f66e0a7a0b155050d4768bda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\41930a30f66e0a7a0b155050d4768bda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b47bd4870e0c2195697e8ec56b5e9988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b47bd4870e0c2195697e8ec56b5e9988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\542950dbc7bd3dd9a606f3c99b098a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\542950dbc7bd3dd9a606f3c99b098a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b48a788352a57f5e01268fb1d3554b92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b48a788352a57f5e01268fb1d3554b92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a6130e8de5baa017c3b8c5bee69b8c45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a6130e8de5baa017c3b8c5bee69b8c45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3416ed5d868317b9046f926b6c0165d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3416ed5d868317b9046f926b6c0165d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6d24f5e02c9456ee3f4ba57822bdce8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6d24f5e02c9456ee3f4ba57822bdce8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e4f4b69612e0aa4fec6d5b996d1136c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e4f4b69612e0aa4fec6d5b996d1136c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4081862020d32e7354372049725c21e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4081862020d32e7354372049725c21e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a9f10ef99a92601101a1abd99ea09737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a9f10ef99a92601101a1abd99ea09737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a61bb246b21d2566234e16afb19b7c6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a61bb246b21d2566234e16afb19b7c6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\112bc047e04d3ad5ed6d163f6a883522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\112bc047e04d3ad5ed6d163f6a883522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\010988880c2c63c2b360a89f063c3e31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\010988880c2c63c2b360a89f063c3e31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\47f16645a52e0415f8cc4d0a8c3c071d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\47f16645a52e0415f8cc4d0a8c3c071d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\541744292846edd45cee593f6029f243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\541744292846edd45cee593f6029f243\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d886f33db88f75f757e49beea790a5e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d886f33db88f75f757e49beea790a5e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6959deb9650939d536cb856402ff61ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6959deb9650939d536cb856402ff61ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2520905ddd1b7b210aff1b82baf52336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2520905ddd1b7b210aff1b82baf52336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d06c4b4b121885c654655adc5255da9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d06c4b4b121885c654655adc5255da9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8b3151cba57e6620c2057602529fea51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8b3151cba57e6620c2057602529fea51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\11955397ac89c39d47f0dcd02cfef2a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\11955397ac89c39d47f0dcd02cfef2a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dc8437f27ad6de691120f873482df49c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dc8437f27ad6de691120f873482df49c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\121f6d97d346fc0143c821fcd50b5fe6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\121f6d97d346fc0143c821fcd50b5fe6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e62cce9a8236dedc88920d38b8028089\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cep.CEPNET0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e62cce9a8236dedc88920d38b8028089\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cep.CEPNET0\Downloads\Projecte15012019\Projecte14012019\app\src\main\AndroidManifest.xml

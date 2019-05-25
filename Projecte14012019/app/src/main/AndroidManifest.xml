@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cep.projecte">
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"></uses-permission-sdk-23>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logocolor"
+        android:label=""
+        android:roundIcon="@drawable/logocolor"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".com.example.cep.projecte.activities.MainActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".com.example.cep.projecte.activities.registro" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.ANSWER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".com.example.cep.projecte.activities.ActividadDetalles" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.ANSWER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".com.example.cep.projecte.activities.ActividadesActivity" android:screenOrientation="portrait" />
+        <activity android:name=".com.example.cep.projecte.activities.LibreriasActivity" android:screenOrientation="portrait" />
+        <activity android:name=".com.example.cep.projecte.activities.PerfilActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".com.example.cep.projecte.activities.LibreriaDetalles" android:screenOrientation="portrait" />
+        <activity android:name=".com.example.cep.projecte.activities.QR" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.cep.projecte.com.example.cep.projecte.activities.Splash" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".com.example.cep.projecte.activities.Alquiler"  android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

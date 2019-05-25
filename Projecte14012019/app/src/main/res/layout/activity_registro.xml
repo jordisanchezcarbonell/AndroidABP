@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/fondologin">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="415dp"
+                android:layout_height="50dp"
+                android:src="@drawable/liber_blanco"
+                android:layout_margin="10dp"
+                android:layout_gravity="center" />
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/EditNombreUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nom_usuario"
+            android:textColor="@color/colorBlancoRoto"
+            android:paddingTop="25dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/EditNombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nombre"
+            android:textColor="@color/colorBlancoRoto"
+            android:paddingTop="25dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/EditApellido"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/apellido"
+            android:textColor="@color/colorBlancoRoto"
+            android:paddingTop="25dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/EditEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/email"
+            android:textColor="@color/colorBlancoRoto"
+            android:paddingTop="25dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/EditEmailRep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/rep_email"
+            android:textColor="@color/colorBlancoRoto"
+            android:paddingTop="25dp"
+            android:singleLine="true" />
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInputLayoutPassword"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:passwordToggleEnabled="true">
+
+            <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/contraseña"
+                android:textColor="@color/colorBlancoRoto"
+                android:inputType="textPassword"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInputLayoutPasswordRep"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:passwordToggleEnabled="true">
+
+            <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/rep_contraseña"
+                android:textColor="@color/colorBlancoRoto"
+                android:inputType="textPassword"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <CheckBox
+            android:id="@+id/terminos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/terminosCondiciones"
+            android:textColor="@color/colorBlancoRoto"/>
+
+        <CheckBox
+            android:id="@+id/notificaciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/notificaciones"
+            android:textColor="@color/colorBlancoRoto"/>
+
+        <Button
+            android:id="@+id/registrarme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/registrarse"
+            android:background="@drawable/botones_secundarios"
+            android:layout_marginHorizontal="20dp" />
+    </LinearLayout>
+
+</ScrollView>

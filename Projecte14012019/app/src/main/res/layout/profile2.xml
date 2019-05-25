@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/actionbar"
+        layout="@layout/actionbar"
+        android:layout_height="79dp"
+        android:layout_width="match_parent">
+    </include>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:gravity="center_horizontal"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="384dp"
+        android:layout_height="167dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="50dp"
+        android:scaleType="center"
+        android:gravity="center_horizontal"
+        android:src="@drawable/monstruo" />
+
+
+    <TextView
+        android:id="@+id/nombreUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:text="Nombre Usuario"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="Nivel 1" />
+
+        <ProgressBar
+            android:id="@+id/progresBarNivel"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:max="500"
+            android:maxWidth="200dp"
+            android:maxHeight="200dp"
+            android:progress="200"
+            android:scaleY="2.8"
+            android:progressBackgroundTint="@color/colorBotonesSecundario"/>
+
+        <TextView
+            android:id="@+id/nivel2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="Nivel 2" />
+
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/idGridView"
+        android:paddingTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="361.5dp"
+        android:layout_gravity="center_horizontal"
+        android:numColumns="2"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+    <include
+        layout="@layout/bottom_navigation_element"
+        android:layout_width="match_parent"
+        android:layout_height="56.5dp"
+        android:layout_alignParentBottom="true" />
+</LinearLayout>
+

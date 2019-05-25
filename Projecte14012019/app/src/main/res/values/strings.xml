@@ -1,0 +1,47 @@
+
+<resources>
+    <string name="app_name">Liber</string>
+
+    <!-- Login y Registro -->
+    <string name="nom_usuario">Nombre usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="recordar_datos">Recordar datos.</string>
+    <string name="heOlvidadoContrasenya"><u>He olvidado mi contraseña.</u></string>
+    <string name="boton_aceptar">ACEPTAR</string>
+    <string name="boton_registro">REGISTRO</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="email">Email</string>
+    <string name="rep_email">Repetir email</string>
+    <string name="rep_contraseña">Repetir contraseña</string>
+    <string name="registrarse">Registrarme</string>
+    <string name="terminosCondiciones">Terminos y condiciones</string>
+    <string name="notificaciones">Quieres recibir notificaciones?</string>
+
+    <!-- Otra pantalla -->
+    <string name="buscador">Buscador</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="nombre_libro">Titulo</string>
+    <string name="escritor">Escritor</string>
+    <string name="perfil">Perfil</string>
+    <string name="boton_participar">PARTICIPAR</string>
+
+    <!-- Toast -->
+    <string name="bienvenido">Bienvenido a Liber</string>
+    <string name="introduceDatos">Introduce los datos.</string>
+    <string name="introduceNombre">Introduce el nombre</string>
+    <string name="introduceContraseña">Introduce la contraseña</string>
+    <string name="mailRecuperacion">Se ha mandado un mail de recuperacion, revisa tu bandeja de entrada</string>
+
+    <string name="title_activity_barra_inferior">ActivityBarraInferior</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="AceptarTerminosCondiciones">Debes aceptar los terminos y condiciones</string>
+    <string name="contraseñasNo">Las contraseñas no coinciden.</string>
+    <string name="mailsno">Los mail no coinciden</string>
+
+
+</resources>

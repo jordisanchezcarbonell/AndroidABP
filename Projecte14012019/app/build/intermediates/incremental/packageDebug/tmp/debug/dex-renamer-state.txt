@@ -1,0 +1,4 @@
+#Tue Jan 15 18:26:12 CET 2019
+base.0=C\:\\Users\\cep.CEPNET0\\Downloads\\Projecte15012019\\Projecte14012019\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

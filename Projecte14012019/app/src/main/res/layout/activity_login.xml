@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".com.example.cep.projecte.activities.MainActivity"
+    android:background="@drawable/fondologin"
+    >
+
+        <ImageView
+            android:layout_marginTop="15dp"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/logoblanco"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="30dp">
+
+            <EditText
+                android:layout_marginBottom="10dp"
+                android:padding="8dp"
+                android:id="@+id/editTextNombreLogin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="@string/nom_usuario"
+                android:textColor="@color/colorBlancoRoto"
+                android:singleLine="true">
+
+        </EditText>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/textInputLayoutPasswordLogin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:passwordToggleEnabled="true">
+
+                <android.support.design.widget.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorBlancoRoto"
+                    android:hint="@string/contraseña"
+                    android:inputType="textPassword"
+                    />
+            </android.support.design.widget.TextInputLayout>
+
+            <CheckBox
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/recordar_datos"
+                android:textColor="@color/colorBlancoRoto"/>
+
+            <TextView
+                android:id="@+id/textViewOlvidadoPassword"
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/heOlvidadoContrasenya"
+                android:textColor="@color/colorBlancoRoto"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonEntrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="@string/boton_aceptar"
+        android:background="@drawable/botones_primarios"
+        android:textColor="@color/colorBlancoRoto"/>
+
+    <Button
+        android:id="@+id/buttonRegistro"
+        android:layout_margin="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/boton_registro"
+        android:background="@drawable/botones_secundarios"
+        android:textColor="@color/colorBlancoRoto"/>
+
+
+
+</LinearLayout>

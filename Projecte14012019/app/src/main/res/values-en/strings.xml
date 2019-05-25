@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <resources>
+        <string name="app_name">Liber</string>
+
+        <!-- Login y Registro -->
+        <string name="nom_usuario">Username</string>
+        <string name="contraseña">Password</string>
+        <string name="recordar_datos">Remember me.</string>
+        <string name="heOlvidadoContrasenya"><u>I forgot my password..</u></string>
+        <string name="boton_aceptar">ACCEPT</string>
+        <string name="boton_registro">SIGN IN</string>
+        <string name="nombre">Name</string>
+        <string name="apellido">Lastname</string>
+        <string name="email">Email</string>
+        <string name="rep_email">Repeat email</string>
+        <string name="rep_contraseña">Repeat password</string>
+        <string name="registrarse">SIGN IN</string>
+        <string name="terminosCondiciones">Terms and Conditions</string>
+        <string name="notificaciones">Want to receive notifications?</string>
+
+        <!-- Otra pantalla -->
+        <string name="buscador">Searcher</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="cancelar">Decline</string>
+        <string name="aceptar">Accept</string>
+        <string name="nombre_libro">Title</string>
+        <string name="escritor">Writter</string>
+        <string name="perfil">Profile</string>
+        <string name="boton_participar">JOIN IN</string>
+
+        <!-- Toast -->
+        <string name="bienvenido">Welcome to Liber</string>
+        <string name="introduceDatos">Fill the gaps</string>
+        <string name="introduceNombre">Fill the username</string>
+        <string name="introduceContraseña">Fill the password</string>
+        <string name="mailRecuperacion">A password recuperation mail has been sent, check your email.</string>
+
+        <string name="title_activity_barra_inferior">ActivityBarraInferior</string>
+        <string name="title_home">Home</string>
+        <string name="title_dashboard">Dashboard</string>
+        <string name="title_notifications">Notifications</string>
+    <string name="AceptarTerminosCondiciones">You have to accept terms and conditions</string>
+    <string name="contraseñasNo">The passwords don\'t match</string>
+    <string name="mailsno">Emails don\'t match</string>
+
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liber</string>
+
+    <!-- Login y Registro -->
+    <string name="nom_usuario">Nom d"'"usuari</string>
+    <string name="contraseña">Contrasenya</string>
+    <string name="recordar_datos">Recordar dades.</string>
+    <string name="heOlvidadoContrasenya"><u>He oblidat la meva contrasenya.</u></string>
+    <string name="boton_aceptar">ACCEPTAR</string>
+    <string name="boton_registro">REGISTRE</string>
+    <string name="nombre">Nom</string>
+    <string name="apellido">Cognom</string>
+    <string name="email">Email</string>
+    <string name="rep_email">Repetir email</string>
+    <string name="rep_contraseña">Repetir contrasenya</string>
+    <string name="registrarse">Registrarme</string>
+    <string name="terminosCondiciones">Termes i condicions</string>
+    <string name="notificaciones">Vols rebre notificacions?</string>
+
+    <!-- Otra pantalla -->
+    <string name="buscador">Buscador</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Acceptar</string>
+    <string name="nombre_libro">Titol</string>
+    <string name="escritor">Escriptor</string>
+    <string name="perfil">Perfil</string>
+    <string name="boton_participar">PARTICIPAR</string>
+
+    <!-- Toast -->
+    <string name="bienvenido">Benvingut a Liber</string>
+    <string name="introduceDatos">Introdueix les dades.</string>
+    <string name="introduceNombre">Introdueix el nom</string>
+    <string name="introduceContraseña">Introdueix la contraseña</string>
+    <string name="mailRecuperacion">S\'ha enviat un mail de recuperacio, revisa la bustia.</string>
+
+    <string name="title_activity_barra_inferior">ActivityBarraInferior</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="AceptarTerminosCondiciones">Has d\'acceptar els termes i condicions</string>
+    <string name="contraseñasNo">Les contrasenyes no coincideixen</string>
+    <string name="mailsno">Els mails no coincideixen</string>
+
+</resources>

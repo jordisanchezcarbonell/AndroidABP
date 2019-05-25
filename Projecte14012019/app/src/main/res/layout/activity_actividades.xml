@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".com.example.cep.projecte.activities.ActividadesActivity"
+                android:orientation="vertical">
+
+    <include
+        android:id="@+id/actionbar"
+        layout="@layout/actionbar"
+        android:layout_height="79dp"
+        android:layout_width="match_parent">
+    </include>
+
+    <ListView
+        android:id="@+id/LstActividades"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:padding="20dp"
+        android:dividerHeight="0dp"
+        android:divider="@null"
+        >
+    </ListView>
+
+    <include
+        layout="@layout/bottom_navigation_element"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        />
+
+
+</RelativeLayout>
